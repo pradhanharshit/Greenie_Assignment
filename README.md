@@ -35,11 +35,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-To test the user -
+## To test the user -
+
 Username - test
 Password - test123
 
-Screenshots
+## Screenshots
 
 Dashboard
 ![image](https://github.com/pradhanharshit/Greenie_Assignment/assets/55655048/8abfec40-f885-4279-ac6e-6743f71a8c0e)
