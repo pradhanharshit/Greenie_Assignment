@@ -54,6 +54,11 @@ Search Functionality
 User Modal
 ![image](https://github.com/pradhanharshit/Greenie_Assignment/assets/55655048/c04ce9c3-7861-422d-b500-7ad661544e4f)
 
+## Lighthouse Score
+
+![image](https://github.com/pradhanharshit/Greenie_Assignment/assets/55655048/02f8f042-3048-45f3-8560-ec436b42283d)
+
+
 
 
 
